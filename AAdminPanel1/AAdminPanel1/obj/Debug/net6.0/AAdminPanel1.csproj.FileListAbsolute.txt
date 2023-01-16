@@ -1,0 +1,8 @@
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.csproj.AssemblyReference.cache
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.AssemblyInfoInputs.cache
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.AssemblyInfo.cs
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.csproj.CoreCompileInputs.cache
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.RazorAssemblyInfo.cache
+C:\Users\Fuad\Desktop\C#\AAdminPanel1\AAdminPanel1\obj\Debug\net6.0\AAdminPanel1.RazorAssemblyInfo.cs
